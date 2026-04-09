@@ -1,8 +1,8 @@
 ### Hey, I'm Arda
 
-I build open infrastructure for AI agents at **[Cogitave](https://github.com/Cogitave)**.
+I build open infrastructure for AI agents.
 
-Right now I'm working on **[Namzu](https://github.com/Cogitave/namzu)** — an open-source AI agent framework with multi-model, multi-tenant, MCP and A2A support.
+Right now I'm working on **[Namzu](https://github.com/cogitave/namzu)** — an open-source AI agent framework with multi-model, multi-tenant, MCP and A2A support.
 
 TypeScript · Rust · .NET/C# · AI infra
 
